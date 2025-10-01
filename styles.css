@@ -198,6 +198,15 @@ h1, h2, h3, h4, h5, h6 {
     .hero-benefits-card .card-body {
         padding: 1.5rem !important;
         margin-bottom: 0 !important;
+        padding-bottom: 1.5rem !important;
+    }
+
+    .hero-benefits-card .text-center:last-child {
+        margin-bottom: 0 !important;
+    }
+
+    .hero-benefits-card .btn-primary {
+        margin-bottom: 0 !important;
     }
 }
 
