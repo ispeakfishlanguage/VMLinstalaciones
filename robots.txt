@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ispeakfishlanguage.github.io/VMLinstalaciones/sitemap.xml
+Sitemap: https://www.instalacionesvml.com/sitemap.xml
